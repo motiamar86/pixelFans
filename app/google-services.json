@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1020345782225",
+    "firebase_url": "https://fansfixels.firebaseio.com",
+    "project_id": "fansfixels",
+    "storage_bucket": "fansfixels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020345782225:android:1b53354bee7b1987755af0",
+        "android_client_info": {
+          "package_name": "com.zms.fansfixels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020345782225-if4b6pbeo5khgakkdq46vvgdva1rmro1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zms.fansfixels",
+            "certificate_hash": "60baf7bf132de25434df11decc3275bce8da15ee"
+          }
+        },
+        {
+          "client_id": "1020345782225-7j2aq9l7sqlsp7ocn83urt3bst8t5ni1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdG3v07wjn479HZS37R_Ivbt26hmS0Y4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020345782225-7j2aq9l7sqlsp7ocn83urt3bst8t5ni1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,9 +1,7 @@
 <resources>
-    <string name="app_name">fansfixels</string>
-    <string name="permdesc_flashlight">permdesc_flashlight</string>
-    <string name="update_my_location">עדכן מיקום</string>
-    <string name="chair_number">אנא בחר כסא</string>
-    <string name="row_number">אנא בחר שורה</string>
-    <string name="wait_for_start">אנא המתן לתחילת האירוע</string>
-    <string name="event_started_message">אנא כוון את הפנס כלפי מעלה כאשר פני המסך מופנים כלפיך</string>
+    <string name="app_name">PixelFansClientApp</string>
+    <string name="flash_not_supported">Flashlight is not supported!</string>
+    <string name="no_flash_available">No flash available on your device!</string>
+    <string name="no_camera_permission">No camera permission!</string>
+    <string name="click_to_turn_on_off">Click to Turn On/Off</string>
 </resources>

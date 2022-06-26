@@ -8,6 +8,35 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:1020345782225:android:3bf27cf56262a144755af0",
+        "android_client_info": {
+          "package_name": "com.example.pixelfansclientapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020345782225-7j2aq9l7sqlsp7ocn83urt3bst8t5ni1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdG3v07wjn479HZS37R_Ivbt26hmS0Y4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020345782225-7j2aq9l7sqlsp7ocn83urt3bst8t5ni1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:1020345782225:android:1b53354bee7b1987755af0",
         "android_client_info": {
           "package_name": "com.zms.fansfixels"
